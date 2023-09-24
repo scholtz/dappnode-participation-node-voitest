@@ -1,0 +1,11 @@
+version: "3.5"
+services:
+  participation.dappnode.voitest.public.dappnode.eth:
+    build: .
+    image: >-
+      participation.dappnode.voitest.public.dappnode.eth.participation-node-voitest.public.dappnode.eth:3.18.0
+    restart: unless-stopped
+    volumes:
+      - "data:/app/data"
+volumes:
+  data: {}

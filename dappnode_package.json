@@ -1,0 +1,17 @@
+{
+  "name": "participation-node-voitest.public.dappnode.eth",
+  "version": "3.18.0",
+  "description": "VoiTest participation node",
+  "type": "service",
+  "author": "Ludovit Scholtz",
+  "categories": ["Developer tools", "Blockchain"],
+  "keywords": ["Algorand", "Voitest", "Participation node"],
+  "links": {
+    "homepage": "https://github.com/scholtz/AlgorandNodes",
+    "algorand": "https://github.com/algorand/go-algorand"
+  },
+  "bugs": {
+    "url": "https://github.com/scholtz/AlgorandNodes/issues"
+  },
+  "license": "GPL-3.0"
+}

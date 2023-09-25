@@ -7,11 +7,13 @@
   "categories": ["Developer tools", "Blockchain"],
   "keywords": ["Algorand", "Voitest", "Participation node"],
   "links": {
-    "homepage": "https://github.com/scholtz/AlgorandNodes",
+    "homepage": "https://github.com/scholtz/dappnode-participation-node-voitest",
+    "algorand-nodes": "https://github.com/scholtz/AlgorandNodes",
+    "voi": "https://docs.voi.network",
     "algorand": "https://github.com/algorand/go-algorand"
   },
   "bugs": {
-    "url": "https://github.com/scholtz/AlgorandNodes/issues"
+    "url": "https://github.com/scholtz/dappnode-participation-node-voitest/issues"
   },
   "license": "GPL-3.0"
 }

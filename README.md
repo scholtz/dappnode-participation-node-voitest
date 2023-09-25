@@ -57,7 +57,7 @@ And setup the passwords and update the system if needed.
 
 Go to DAppStore menu
 
-Insert into search bar /ipfs/QmdScRctkTMmMoaMpFFq2nUy7sXgEnDTf9Fxm7bPzdayzG and hit enter
+Insert into search bar /ipfs/QmexYKWP11GCqHdwtg18HyDowX2dfSn7WDzSUEfvXi6Njd and hit enter
 
 Click advanced options, enable Bypass only signed safe restriction, click INSTALL button, wait until the app is installed.
 

@@ -55,13 +55,13 @@ And setup the passwords and update the system if needed.
 
 ## Install Participation Node Voitest
 
-Go to DAppStore menu
+Go to [DAppStore](http://my.dappnode/installer/dnp) menu
 
 Insert into search bar /ipfs/QmexYKWP11GCqHdwtg18HyDowX2dfSn7WDzSUEfvXi6Njd and hit enter
 
 Click advanced options, enable Bypass only signed safe restriction, click INSTALL button, wait until the app is installed.
 
-Go to packages, click on "Participation Node Voitest".
+[Go to packages](http://my.dappnode/packages/my), click on "Participation Node Voitest".
 
 Go to Logs, wait until your node is synced up.
 

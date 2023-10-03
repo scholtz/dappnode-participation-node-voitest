@@ -57,7 +57,7 @@ And setup the passwords and update the system if needed.
 
 Go to [DAppStore](http://my.dappnode/installer/dnp) menu
 
-Insert into search bar /ipfs/QmexYKWP11GCqHdwtg18HyDowX2dfSn7WDzSUEfvXi6Njd and hit enter
+Insert into search bar /ipfs/QmXHn8mDRfvikfJeUG1XcCHcSHAFpkkGoQHfrTsBce8NbG and hit enter
 
 Click advanced options, enable Bypass only signed safe restriction, click INSTALL button, wait until the app is installed.
 
@@ -144,3 +144,30 @@ diagcfg telemetry name -n "yourNodeName"
 Check your node status: https://voi-node-info.boeieruurd.com/
 
 
+## Build image
+
+git clone this repo
+
+in linux connected to openvpn to your dappnode run
+
+```
+npx @dappnode/dappnodesdk build
+```
+
+Example output
+
+```
+  ✔ Verify connection
+  ✔ Verify connection
+  ✔ Create release dir
+  ✔ Validate files
+  ✔ Copy files
+  ✔ Build docker image
+  ✔ Save and compress image
+  ✔ Upload release to IPFS node
+  ✔ Save upload results
+
+  DNP (DAppNode Package) built and uploaded
+  Release hash : /ipfs/QmXHn8mDRfvikfJeUG1XcCHcSHAFpkkGoQHfrTsBce8NbG
+  http://my.dappnode/installer/public/%2Fipfs%2FQmXHn8mDRfvikfJeUG1XcCHcSHAFpkkGoQHfrTsBce8NbG
+```

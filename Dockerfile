@@ -1,4 +1,4 @@
-FROM scholtz2/algorand-participation-mainnet:3.18.0-stable
+FROM scholtz2/algorand-participation-mainnet:3.18.1-stable
 
 WORKDIR /app
 

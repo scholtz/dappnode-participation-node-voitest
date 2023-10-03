@@ -1,8 +1,10 @@
 {
   "name": "participation-node-voitest.public.dappnode.eth",
-  "version": "3.18.0",
+  "version": "3.18.1",
   "description": "VoiTest participation node",
+  "shortDescription": "VoiTest participation node",
   "type": "service",
+  "mainService": "voitest",
   "author": "Ludovit Scholtz",
   "categories": ["Developer tools", "Blockchain"],
   "keywords": ["Algorand", "Voitest", "Participation node"],
@@ -10,7 +12,12 @@
     "homepage": "https://github.com/scholtz/dappnode-participation-node-voitest",
     "algorand-nodes": "https://github.com/scholtz/AlgorandNodes",
     "voi": "https://docs.voi.network",
-    "algorand": "https://github.com/algorand/go-algorand"
+    "algorand": "https://github.com/algorand/go-algorand",
+    "Wallet": "https://www.a-wallet.net"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/scholtz/dappnode-participation-node-voitest.git"
   },
   "bugs": {
     "url": "https://github.com/scholtz/dappnode-participation-node-voitest/issues"

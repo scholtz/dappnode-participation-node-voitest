@@ -2,7 +2,7 @@ version: "3.5"
 services:
   participation-node-voitest.public.dappnode.eth:
     build: .
-    image: "participation-node-voitest.public.dappnode.eth:3.18.0"
+    image: "participation-node-voitest.public.dappnode.eth:3.18.1"
     restart: unless-stopped
     volumes:
       - "data:/app/data"

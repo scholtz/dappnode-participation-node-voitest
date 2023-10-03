@@ -57,7 +57,7 @@ And setup the passwords and update the system if needed.
 
 Go to [DAppStore](http://my.dappnode/installer/dnp) menu
 
-Insert into search bar /ipfs/QmXHn8mDRfvikfJeUG1XcCHcSHAFpkkGoQHfrTsBce8NbG and hit enter
+Insert into search bar /ipfs/QmUygEGihrfYB6UK6emKAWcuVmQ35YnTDNTxwPeQZ73Z5m and hit enter
 
 Click advanced options, enable Bypass only signed safe restriction, click INSTALL button, wait until the app is installed.
 
@@ -168,6 +168,6 @@ Example output
   ✔ Save upload results
 
   DNP (DAppNode Package) built and uploaded
-  Release hash : /ipfs/QmXHn8mDRfvikfJeUG1XcCHcSHAFpkkGoQHfrTsBce8NbG
-  http://my.dappnode/installer/public/%2Fipfs%2FQmXHn8mDRfvikfJeUG1XcCHcSHAFpkkGoQHfrTsBce8NbG
+  Release hash : /ipfs/QmUygEGihrfYB6UK6emKAWcuVmQ35YnTDNTxwPeQZ73Z5m
+  http://my.dappnode/installer/public/%2Fipfs%2FQmUygEGihrfYB6UK6emKAWcuVmQ35YnTDNTxwPeQZ73Z5m
 ```
